@@ -1,10 +1,9 @@
-#お手軽LAMP環境構築
+#お手軽 LAMP 環境構築
 PHP + Nginx + MySQL
 
 #ファイル置き場
-appディレクトリ配下に置いてください。
+app ディレクトリ配下
 
 ```
 docker-compose up -d
 ```
-
